@@ -6,10 +6,10 @@ I'm passionate about web development and currently diving deep into the MERN sta
 
 - 🌱 **Learning**: MERN Stack Development
 - 🛠️ **Projects**: 
-  - **MERN Stack**: 3 Projects
-  - **React.js**: 9 Projects
-  - **Node.js**: 2 Projects
-  - **Animated Websites**: 4 Repositories
+  - **MERN Stack**: 3+ Projects
+  - **React.js**: 15+ Projects
+  - **Node.js**: 2+ Projects
+  - **Animated Websites**: 4+ Repositories
 
 ## 🕹️ Technologies & Tools
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
@@ -32,6 +32,11 @@ I'm passionate about web development and currently diving deep into the MERN sta
 ![Mayank's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynkRog&theme=radical&card_width=450)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkRog&layout=donut&theme=radical)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynkRog&theme=radical)
+
+## 🌐 Frontend Profiles
+
+- [Frontend Mentor](https://www.frontendmentor.io/profile/mynkRog/solutions): Check out my solutions and projects completed on Frontend Mentor.
+- [GreatFrontEnd](https://www.greatfrontend.com/profile): Check out my solutions and projects completed on Frontend Mentor. 
 
 ## 📬 Connect with Me
 
